@@ -1,4 +1,4 @@
-Student Management System 🏫
+**Student Management System 🏫**
 Overview
 This Student Management System is a simple Bash script that allows teachers to manage student records efficiently. It supports adding, updating, viewing, and deleting student records, along with assigning marks, calculating grades, and computing CGPA. Students can log in to view their marks, grades, and CGPA.
 
